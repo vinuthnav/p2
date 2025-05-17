@@ -24,7 +24,7 @@ This project is a simple and elegant webpage that showcases **devotional travel 
 
 ## 🙏 Author
 
-Made with love and devotion by [Your Name](https://github.com/vinuthnav)
+Made with love and devotion by [Vinuthna](https://github.com/vinuthnav)
 
 
 
